@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mariyamchara
+- 👋 Hi, I’m @Mariyamc
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning information technology
 - 💞️ I’m looking to collaborate on ...
